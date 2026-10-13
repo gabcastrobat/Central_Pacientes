@@ -1,0 +1,2 @@
+Aquí se crea pacientes.txt cuando registras pacientes (si Tomcat se ejecuta desde la raíz del proyecto).
+La ruta exacta aparece al pie de la página y en el log de Tomcat.

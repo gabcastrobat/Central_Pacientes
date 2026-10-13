@@ -1,0 +1,5 @@
+umariana\pacientes\persistencia\ArchivoPacientes.class
+umariana\pacientes\servlet\PacienteServlet.class
+umariana\pacientes\modelo\CentralPacientes.class
+umariana\pacientes\modelo\Paciente.class
+umariana\pacientes\pruebas\Prueba10CasosLimite.class
